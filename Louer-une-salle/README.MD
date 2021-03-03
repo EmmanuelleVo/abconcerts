@@ -45,27 +45,27 @@ Le score est de 13/29, soit 44% de réussite.
 
 ## HTML validator
 
-![TotalValidator](../img/validator.png)
-![w3-Validator](../img/validator-w3.png)
+![TotalValidator](./img/validator.png)
+![w3-Validator](./img/validator-w3.png)
 
 ## Outline
 
 Il manque notamment un titre (qui est originellement associé à un label)
-![Headers Structure](../img/headers-original.png)
+![Headers Structure](./img/headers-original.png)
 
 Correction :
-![Headers Structure](../img/headers-corr.png)
+![Headers Structure](./img/headers-corr.png)
 
 
 Outline original :
-![HTML5 Outline](../img/outline-error.png)
+![HTML5 Outline](./img/outline-error.png)
 
 Correction :
-![HTML5 Outline corr](../img/outline-corr.png)
+![HTML5 Outline corr](./img/outline-corr.png)
 
 ## Rapport de contraste
 
-![Contrast](../img/contrast-error.png)
+![Contrast](./img/contrast-error.png)
 
 Form :
 
@@ -79,26 +79,26 @@ Footer
 
 ## Microdata
 
-![Microdata1](../img/microdata1.png)
-![Microdata2](../img/microdata2.png)
+![Microdata1](./img/microdata1.png)
+![Microdata2](./img/microdata2.png)
 
 ## Carbon Calculator
 
 La page "Louer une salle" d'ABConcert n'est pas du tout écologique comparée à la page d'accueil ou à la page d'un concert. En effet, il est plus "sale" que 94% des pages de sites web et la page produit 5.19 CO2 à chaque fois qu'un utilisateur visite cette page.
-![Carbon Calculator](../img/carbon.png)
+![Carbon Calculator](./img/carbon.png)
 
 ## GTMetrix
 
-![GTMetrix1](../img/GT.png)
-![GTMetrix2](../img/Metrix.png)
+![GTMetrix1](./img/GT.png)
+![GTMetrix2](./img/Metrix.png)
 Il faudrait redimensionner l'image (Plus l'image a une haute résolution, plus son poids est lourd)
-![Problème 1](../img/image-size.png)
+![Problème 1](./img/image-size.png)
 Il faudrait compresser les images, ce qui réduirait la taille du fichier de l'image pour une meilleure performance
-![Problème 2](../img/encode-image.png)
+![Problème 2](./img/encode-image.png)
 Il faudrait réduire la taille totale des requêtes de la page en minimisant la taille des ressources (compresser le HTML, CSS et JS)
-![Problème 3](../img/network-payload.png)
+![Problème 3](./img/network-payload.png)
 Il faudrait que les données su site soient stockées dans le cache. Les données statiques (logos,...) pourraient être stockées pendant un an et le reste pendant un mois.
-![Problème 4](../img/cache.png)
+![Problème 4](./img/cache.png)
 
 
 ## Responsive
