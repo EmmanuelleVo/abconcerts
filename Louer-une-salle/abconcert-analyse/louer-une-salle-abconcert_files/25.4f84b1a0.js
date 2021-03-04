@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[25],{ThGu:function(e,o,t){"use strict";t.r(o),o.default=function(e){e.addEventListener("click",(function(e){e.preventDefault(),document.querySelector(".myab-popup").classList.add("-open"),document.body.classList.add("-no-overflow"),document.querySelector(".myab-popup").addEventListener("click",(function(e){e.target.classList.contains("myab-popup")&&(document.querySelector(".myab-popup").classList.remove("-open"),document.body.classList.remove("-no-overflow"))}))}))}}}]);
+//# sourceMappingURL=25.4f84b1a0.js.map

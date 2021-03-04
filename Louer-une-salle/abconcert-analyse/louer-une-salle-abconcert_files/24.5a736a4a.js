@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[24],{PYJw:function(e,t,o){"use strict";o.r(t),t.default=function(e){var t=document.body,o=document.querySelector(".page-nav");document.querySelectorAll("[data-page-nav-toggle]").forEach((function(n){n.addEventListener("click",(function(n){n.preventDefault(),e.classList.toggle("-active"),t.classList.toggle("-no-overflow"),o.classList.toggle("-active")}))}))}}}]);
+//# sourceMappingURL=24.5a736a4a.js.map
