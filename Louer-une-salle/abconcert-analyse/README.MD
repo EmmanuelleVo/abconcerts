@@ -107,3 +107,15 @@ La page est tout à fait responsive
 
 ![Ordinateur-screenshot](./img/ordinateur.png)
 ![smartphone-screenshot](./img/smartphone.png)
+
+
+
+
+## Refonte
+   - Contraste des labels et messages d'erreur
+   - Outline/headers : ajouts de titre, sections,nav, correction (label -> h2)
+   - Ajout du FAQ dans le menu
+   - Alt non significatifs
+   - MonAB non significatif -> se connecter + bouton
+   - Microdata
+   - Newsletter : ajout d'un label
