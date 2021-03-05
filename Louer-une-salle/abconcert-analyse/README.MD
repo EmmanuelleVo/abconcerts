@@ -32,6 +32,7 @@ Le score est de 13/29, soit 44% de réussite.
 6. Non : "politique de confidentialité" dans le footer,
 7. Non : pas dans le menu de navigation ("Mon AB" = Se connecter),
 8. Oui : mais certaines ne sont pas significatives,
+
    ![Alt erreur](./img/alt-non-significatif.png)
    ![Alt correction](./img/alt-corr.png)
 9. / : il n'y a pas de vidéos,
